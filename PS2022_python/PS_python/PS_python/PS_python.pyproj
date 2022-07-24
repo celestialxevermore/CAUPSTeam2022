@@ -24,6 +24,7 @@
     <Compile Include="PS_python.py" />
     <Compile Include="미로 탐색.py" />
     <Compile Include="방 번호.py" />
+    <Compile Include="소수 찾기.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

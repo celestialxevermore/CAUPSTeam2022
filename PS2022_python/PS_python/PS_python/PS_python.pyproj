@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f9ac08fe-0768-4d6f-bdf2-158a5e10cb14</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>방 번호.py</StartupFile>
+    <StartupFile>compute_metrics.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="compute_metrics.py" />
+    <Compile Include="L2_normalization.py" />
     <Compile Include="PS_python.py" />
     <Compile Include="미로 탐색.py" />
     <Compile Include="방 번호.py" />

@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="두 용액.cpp" />
     <ClCompile Include="모든 순열.cpp" />
     <ClCompile Include="미로탐색.cpp" />
+    <ClCompile Include="제곱수의 합.cpp" />
+    <ClCompile Include="토마토.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

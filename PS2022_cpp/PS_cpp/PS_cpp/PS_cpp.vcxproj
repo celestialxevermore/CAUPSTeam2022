@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="구조체.cpp" />
+    <ClCompile Include="데스 나이트.cpp" />
     <ClCompile Include="두 용액.cpp" />
     <ClCompile Include="모든 순열.cpp" />
     <ClCompile Include="모든 순열2.cpp" />

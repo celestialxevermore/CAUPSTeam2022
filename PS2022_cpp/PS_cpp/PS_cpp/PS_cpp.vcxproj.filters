@@ -39,5 +39,11 @@
     <ClCompile Include="데스 나이트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="킹.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="주지수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

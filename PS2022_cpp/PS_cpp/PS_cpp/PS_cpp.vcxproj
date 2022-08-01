@@ -146,6 +146,8 @@
     <ClCompile Include="모든 순열2.cpp" />
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="제곱수의 합.cpp" />
+    <ClCompile Include="주지수.cpp" />
+    <ClCompile Include="킹.cpp" />
     <ClCompile Include="토마토.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

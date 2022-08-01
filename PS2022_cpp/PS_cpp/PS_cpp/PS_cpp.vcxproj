@@ -145,6 +145,7 @@
     <ClCompile Include="모든 순열.cpp" />
     <ClCompile Include="모든 순열2.cpp" />
     <ClCompile Include="미로탐색.cpp" />
+    <ClCompile Include="이동하기.cpp" />
     <ClCompile Include="제곱수의 합.cpp" />
     <ClCompile Include="주지수.cpp" />
     <ClCompile Include="킹.cpp" />

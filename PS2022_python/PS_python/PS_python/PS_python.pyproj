@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f9ac08fe-0768-4d6f-bdf2-158a5e10cb14</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>아기상어2.py</StartupFile>
+    <StartupFile>침투.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,6 +30,7 @@
     <Compile Include="소수 찾기.py" />
     <Compile Include="아기상어2.py" />
     <Compile Include="양.py" />
+    <Compile Include="침투.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

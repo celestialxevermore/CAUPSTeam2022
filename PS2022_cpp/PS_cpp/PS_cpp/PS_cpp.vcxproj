@@ -144,6 +144,7 @@
     <ClCompile Include="두 용액.cpp" />
     <ClCompile Include="모든 순열.cpp" />
     <ClCompile Include="모든 순열2.cpp" />
+    <ClCompile Include="미로 탐색.cpp" />
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="욕심쟁이 판다.cpp" />
     <ClCompile Include="이동하기.cpp" />
